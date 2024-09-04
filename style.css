@@ -1,0 +1,25 @@
+h1 {
+    color: green;
+} 
+
+p {
+    color: orangered;
+}
+button {
+    color:#fa4700;
+    background-color: rgb(0, 30, 255);  /*RGB 0-255 color system*/
+}
+body {
+    background-color:#000000;       /*HEX 00-ff*/
+    /* background-image: linear-gradient(red, yellow);*/
+} 
+* {
+    color: cyan;   /*universal selector*/
+}
+#heading1 {
+    color: chocolate;   /*from id*/
+}
+.myClass{
+    color: magenta;     /*from class*/
+}
+
